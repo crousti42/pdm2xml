@@ -1,0 +1,12 @@
+\\utilisateurs.micro.pj.fr\gbrugere\mes documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\pdm2xml.exe.config
+\\utilisateurs.micro.pj.fr\gbrugere\mes documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+\\utilisateurs.micro.pj.fr\gbrugere\mes documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+\\utilisateurs.micro.pj.fr\gbrugere\mes documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\pdm2xml.Properties.Resources.resources
+\\utilisateurs.micro.pj.fr\gbrugere\mes documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+\\utilisateurs.micro.pj.fr\gbrugere\mes documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\pdm2xml.exe
+\\utilisateurs.micro.pj.fr\gbrugere\mes documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\pdm2xml.pdb
+\\utilisateurs.micro.pj.fr\gbrugere\mes documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\pdm2xml.exe
+\\utilisateurs.micro.pj.fr\gbrugere\mes documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\pdm2xml.pdb
+H:\Developpement\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\pdm2xml.exe.config
+H:\Developpement\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\pdm2xml.exe
+H:\Developpement\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\pdm2xml.pdb

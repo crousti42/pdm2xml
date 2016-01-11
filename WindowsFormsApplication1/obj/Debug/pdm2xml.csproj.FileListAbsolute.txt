@@ -1,0 +1,3 @@
+H:\Developpement\pdm2xml\WindowsFormsApplication1\bin\Debug\pdm2xml.exe.config
+H:\Developpement\pdm2xml\WindowsFormsApplication1\obj\Debug\pdm2xml.exe
+H:\Developpement\pdm2xml\WindowsFormsApplication1\obj\Debug\pdm2xml.pdb
